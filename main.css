@@ -1,0 +1,78 @@
+.header {
+  background-color: #07003b;
+}
+
+
+.nav__subtitle {
+  font-family: "DIN Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+  color: #ffffff;
+}
+.menu{
+  margin-left: 200px;
+}
+
+.menu_title {
+  font-family: "DINPro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ffffff;
+  margin-left: 20px;
+  
+}
+
+.hero{
+  position: relative;
+  height: 200px;
+}
+
+.hero__left_button{
+  position:absolute;
+  top: 20px;
+  left: 10px; 
+  
+}
+
+.hero__right_button {
+
+  position:absolute;
+  right: 40px;
+  top: 20px;
+  
+  
+  
+}
+
+
+
+
+.hero h1 {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 64px;
+  color: #fccc43;
+}
+
+
+
+
+
+
+
+ 
+
+
+.footer{
+  background: #07003b;
+}
+
+.footer__right{
+  margin-left: 63px;
+}
